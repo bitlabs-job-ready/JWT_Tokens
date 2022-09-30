@@ -1,0 +1,5 @@
+1.Create model class with two variables,
+   username and password.
+
+perform below operations.
+-Implement spring security by using JWT token.
